@@ -57,7 +57,7 @@
 
 Below is a curated list of top open-source payment orchestration, billing engine, crypto processor, and financial messaging repositories, sorted by GitHub star count:
 
-| Repository | Description | GitHub Stars |
+| Repository | Description | GitHub_Stars |
 | :--- | :--- | :--- |
 | **[juspay/hyperswitch](https://github.com/juspay/hyperswitch)** ⚡ | Leading open-source, composable payments orchestration platform (by Juspay). Single API to multiple payment, payout, fraud, and vault providers with intelligent routing. | [<img src="https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white" alt="hyperswitch stars"/>](https://github.com/juspay/hyperswitch/stargazers) |
 | **[saleor/saleor](https://github.com/saleor/saleor)** 🛍️ | Modular, high-performance GraphQL-first headless e-commerce & payment gateway orchestration engine. | [<img src="https://img.shields.io/github/stars/saleor/saleor?style=social&color=white" alt="saleor stars"/>](https://github.com/saleor/saleor/stargazers) |
