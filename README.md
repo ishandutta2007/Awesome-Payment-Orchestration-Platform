@@ -38,71 +38,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## SaaS/Hosted Platforms
-
-- **[Spreedly](https://www.spreedly.com/)**  
-
-  Established payment orchestration and vault platform enabling gateway-agnostic connectivity, tokenization, and multi-PSP routing through a single integration.
-
-
-
-- **[Gr4vy](https://gr4vy.com/)**  
-
-  Cloud-native payment orchestration platform focused on centralized control, configuration, and flexible connectivity for mid-market and growing merchants.
-
-
-
-- **[Primer](https://primer.io/)**  
-
-  Modern workflow-driven payment orchestration platform with visual builders for routing, checkout, and payment logic.
-
-
-
-- **[Paydock](https://paydock.com/)**  
-
-  Payment orchestration and orchestration-layer platform supporting multiple providers and unified payment experiences.
-
-
-
-- **[CellPoint Digital](https://www.cellpointdigital.com/)**  
-
-  Payment orchestration and optimization platform often used in travel and complex multi-PSP environments.
-
-
-
-- **[BridgePay](https://www.bridgepaynetwork.com/)**  
-
-  Payment processing and orchestration-related solutions for connecting merchants to multiple payment rails.
-
-
-
-- **[IXOPAY](https://www.ixopay.com/)**  
-
-  Modular payment orchestration platform with strong tokenization, routing, cascading, and analytics capabilities.
-
-
-
-- **[Payrails](https://payrails.com/)**  
-
-  Enterprise payment orchestration and infrastructure platform focused on modular adoption and global connectivity.
-
-
-
-- **[Yuno](https://www.y.uno/)**  
-
-  Payment orchestration platform aimed at simplifying multi-provider connectivity and expansion into new markets.
-
-
-
-- **[Finix](https://www.finix.com/)**  
-
-  Payments platform with orchestration and infrastructure capabilities for platforms and marketplaces.
-
-
-
-- **[ProcessOut](https://www.processout.com/)** (or related orchestration offerings)  
-
-  Payment orchestration and optimization technology supporting multi-PSP strategies.
+| Product | Description | Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Spreedly](https://www.spreedly.com/)** | Established payment orchestration and vault platform enabling gateway-agnostic connectivity, tokenization, and multi-PSP routing through a single integration. | Contact Sales for custom quote (historical plans started at \$200/mo + transaction fees) | Free trial available with up to 300 free test API calls (no credit card required) |
+| **[Gr4vy](https://gr4vy.com/)** | Cloud-native payment orchestration platform focused on centralized control, configuration, and flexible connectivity for mid-market and growing merchants. | Contact Sales for enterprise quote (based on dedicated cloud instance architecture) | No free trial; free Developer Sandbox environment available for testing |
+| **[Primer](https://primer.io/)** | Modern workflow-driven payment orchestration platform with visual builders for routing, checkout, and payment logic. | Transaction fee model (~0.2% – 0.6% per transaction; min volume/commitment applies) | No free trial; interactive product demo available upon request |
+| **[Paydock](https://paydock.com/)** | Payment orchestration and orchestration-layer platform supporting multiple providers and unified payment experiences. | Contact Sales for enterprise volume quote | No free trial for merchant platform; sandbox environment provided upon request |
+| **[CellPoint Digital](https://www.cellpointdigital.com/)** | Payment orchestration and optimization platform often used in travel and complex multi-PSP environments. | Contact Sales for custom enterprise quote | No free trial; custom platform demo provided upon request |
+| **[BridgePay](https://www.bridgepaynetwork.com/)** | Payment processing and orchestration-related solutions for connecting merchants to multiple payment rails. | Contact Sales for gateway partner pricing (merchant services start at 1.25% classic / 4.5% high-risk, \$0 setup fee) | No free trial; sandbox developer account available upon partner onboarding |
+| **[IXOPAY](https://www.ixopay.com/)** | Modular payment orchestration platform with strong tokenization, routing, cascading, and analytics capabilities. | Contact Sales for custom platform quote based on volume and connectors | No free trial; sandbox test environment available upon demo/request |
+| **[Payrails](https://payrails.com/)** | Enterprise payment orchestration and infrastructure platform focused on modular adoption and global connectivity. | Contact Sales for custom enterprise quote | No free trial; sandbox environment accessible for enterprise evaluation |
+| **[Yuno](https://www.y.uno/)** | Payment orchestration platform aimed at simplifying multi-provider connectivity and expansion into new markets. | Contact Sales for custom quote based on payment volume and markets | No free trial; sandbox integration environment provided upon request |
+| **[Finix](https://www.finix.com/)** | Payments platform with orchestration and infrastructure capabilities for platforms and marketplaces. | Direct merchant plans start at \$99/mo (Interchange + \$0.08 card-present / \$0.15 card-not-present) | Free permanent Sandbox account with API keys & dashboard access (no time limit) |
+| **[ProcessOut](https://www.processout.com/)** | Payment orchestration and optimization technology supporting multi-PSP strategies. | Contact Sales for custom quote based on payment routing volume | No free trial; sandbox integration environment available upon request |
 
 
 
